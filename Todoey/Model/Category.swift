@@ -3,7 +3,7 @@
 //  Todoey Realm
 //
 //  Created by Keval Korat on 5/15/21.
-//  Copyright © 2021 App Brewery. All rights reserved.
+//  Copyright © 2021 Keval Korat. All rights reserved.
 //
 
 import Foundation

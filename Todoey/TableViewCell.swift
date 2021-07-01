@@ -3,7 +3,7 @@
 //  Todoey
 //
 //  Created by Keval Korat on 5/13/21.
-//  Copyright © 2021 App Brewery. All rights reserved.
+//  Copyright © 2021 Keval Korat. All rights reserved.
 //
 
 import UIKit
